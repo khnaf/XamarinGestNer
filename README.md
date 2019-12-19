@@ -48,5 +48,7 @@ A partir de la documentation technique et du cahier des charges des implémentat
     
     Maquette de l'application :
     
-     ![maquette](https://user-images.githubusercontent.com/43346502/71163586-ae47f900-224d-11ea-9b29-fd9c9933799c.PNG)
+     ![maquette]
+     (https://github.com/khnaf/XamarinGestNer/blob/master/maquette.PNG)
+
 
