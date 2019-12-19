@@ -1,0 +1,117 @@
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\XamarinGEstener.dll
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\XamarinGEstener.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\XamarinGEstener.XamarinGEstener.apk
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\XamarinGEstener.XamarinGEstener-Signed.apk
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\XamarinGEstener.nuget.stamp
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\XamarinGEstener.csprojAssemblyReference.cache
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res.flag
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\XamarinGEstener.csproj.CoreCompileInputs.cache
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\XamarinGEstener.dll
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\XamarinGEstener.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\android\bin\XamarinGEstener.XamarinGEstener.apk
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\values\colors.xml
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\values\strings.xml
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\values\styles.xml
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\R.cs.flag
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\R.txt
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\uploadflags.txt
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\Mono.Android.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\mscorlib.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.Core.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.Xml.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.Net.Http.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\Mono.Security.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\XamarinGEstener.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\nkhalil\source\Workspaces\Gestion des Entrepôts (Port de Cherbourg)\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\XamarinGEstener.dll
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\XamarinGEstener.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\XamarinGEstener.XamarinGEstener.apk
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\XamarinGEstener.XamarinGEstener-Signed.apk
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\XamarinGEstener.nuget.stamp
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\libraryimports.cache.stamp
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res.flag
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\XamarinGEstener.csproj.CoreCompileInputs.cache
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\XamarinGEstener.dll
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\XamarinGEstener.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\android\bin\XamarinGEstener.XamarinGEstener.apk
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\layout\activity_main.xml
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\values\colors.xml
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\values\strings.xml
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\values\styles.xml
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\R.cs.flag
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\R.txt
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\uploadflags.txt
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\XamarinGEstener.csprojAssemblyReference.cache
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\res\drawable\container.png
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\Mono.Android.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\mscorlib.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.Core.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.Xml.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.Net.Http.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.Runtime.Serialization.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.ServiceModel.Internals.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\System.ComponentModel.Composition.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\bin\Debug\Mono.Security.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\XamarinGEstener.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\mscorlib.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.Core.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.Xml.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\XamarinGEstner\XamarinGEstener\XamarinGEstener\obj\Debug\81\linksrc\Mono.Security.pdb
